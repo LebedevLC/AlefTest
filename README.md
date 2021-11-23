@@ -1,4 +1,14 @@
 # AlefTest
+
+IOS 15
+
+Использованные технологии в проекте:
+
+  Storyboard
+  UIKit
+  NotificationCenter
+  Clousers
+
 Внешний вид страницы
 ![alt text](Screens/1.png)
 ![alt text](Screens/2.png)
