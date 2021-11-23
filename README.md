@@ -5,7 +5,7 @@ IOS 15
 Использованные технологии в проекте:
 Storyboard, UIKit, NotificationCenter, Clousers
 
-Внешний вид страницы
+Внешний вид приложения
 
 ![alt text](Screens/1.png)
 
