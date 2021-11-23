@@ -3,10 +3,7 @@
 IOS 15
 
 Использованные технологии в проекте:
-Storyboard
-UIKit
-NotificationCenter
-Clousers
+Storyboard, UIKit, NotificationCenter, Clousers
 
 Внешний вид страницы
 
